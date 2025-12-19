@@ -70,8 +70,9 @@ Backend will run at:
 
 http://localhost:3000
 
+---
 
-###  How It Works
+##  How It Works
 
 User enters city name
 
